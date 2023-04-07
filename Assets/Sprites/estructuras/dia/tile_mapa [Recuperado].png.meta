@@ -1,0 +1,673 @@
+fileFormatVersion: 2
+guid: dbcad6fb2d444cf4fbb59f9ef4e1f15a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 560
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cbac162f75d1c4f9fc2b5b01f5bad2
+      internalID: 1251586861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_1
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 562
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fb6575b1ea52c4ab1361b969f512f5
+      internalID: -1801808143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 560
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cfa53ffba1f5b4ba46430dd5082f80
+      internalID: -2102924274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_3
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 617
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784a16b3592fbe3429096f29e019b9c9
+      internalID: 204849818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_4
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 521
+        width: 85
+        height: 115
+      alignment: 9
+      pivot: {x: 0.4973912, y: 0.4755058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a30c583b14825742992b3e0bf5ac148
+      internalID: 1768615517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_5
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 610
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fcbe64a2a3cae45afb6669b2848b68
+      internalID: -1948995589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 424
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a276e55c4636134f80cd414dc74fc60
+      internalID: -1910298161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 424
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91db9c43f5d4c2747a9eb1d2d3cf6344
+      internalID: -988500404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_8
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 424
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8d11a6c492cda4298992329edc4f2b
+      internalID: 1911080124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_9
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 515
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5777d88528792742b1a801e90b27ef3
+      internalID: 409190290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_10
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 437
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14927513402db0b44a77bf76d5908e83
+      internalID: 1300758016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_11
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 437
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c4939be070894eaa03738e108311a
+      internalID: 1282261935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 286
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1cbcf15611d194a9da61cef7b6a432
+      internalID: 1206125882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 287
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d76451a1b1c90142b94c48cf5261f68
+      internalID: 161496662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_14
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 287
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac96edb7e122b54e88ab84193967c78
+      internalID: 1781422585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 286
+        width: 153
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616bf0ea4ce1c5845aa229487e4b1980
+      internalID: -1680133844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 149
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be94309bc33d9b14e97171ba65a25589
+      internalID: -674540861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 150
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72a1693a40ff4c4494b701754ac4cb5
+      internalID: 1262022082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 150
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e4898c7b6afdf40bd85229d26cc159
+      internalID: 1824277733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_19
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 149
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ca7effcf92b5840a210b035720d5e7
+      internalID: 2009709941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_20
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 150
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca4203bf8deb7c4694f7934b183683c
+      internalID: -1834281846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef10b284557ec4788a80d2374a5242
+      internalID: 2097336437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_22
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 12
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d4049e3e6a38d4880fa5dbb5b3dd4f
+      internalID: -966698885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 12
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b75ee5822363f41bd7f7c4b31fae25
+      internalID: 2069207182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile_mapa [Recuperado]_24
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d6bfcfa8e9f3a45a959ecf9e51ecdd
+      internalID: -915919846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tile_mapa [Recuperado]_4: 1768615517
+      tile_mapa [Recuperado]_5: -1948995589
+      tile_mapa [Recuperado]_14: 1781422585
+      tile_mapa [Recuperado]_20: -1834281846
+      tile_mapa [Recuperado]_2: -2102924274
+      tile_mapa [Recuperado]_10: 1300758016
+      tile_mapa [Recuperado]_11: 1282261935
+      tile_mapa [Recuperado]_7: -988500404
+      tile_mapa [Recuperado]_17: 1262022082
+      tile_mapa [Recuperado]_24: -915919846
+      tile_mapa [Recuperado]_19: 2009709941
+      tile_mapa [Recuperado]_0: 1251586861
+      tile_mapa [Recuperado]_6: -1910298161
+      tile_mapa [Recuperado]_22: -966698885
+      tile_mapa [Recuperado]_16: -674540861
+      tile_mapa [Recuperado]_21: 2097336437
+      tile_mapa [Recuperado]_3: 204849818
+      tile_mapa [Recuperado]_15: -1680133844
+      tile_mapa [Recuperado]_12: 1206125882
+      tile_mapa [Recuperado]_13: 161496662
+      tile_mapa [Recuperado]_23: 2069207182
+      tile_mapa [Recuperado]_1: -1801808143
+      tile_mapa [Recuperado]_9: 409190290
+      tile_mapa [Recuperado]_18: 1824277733
+      tile_mapa [Recuperado]_8: 1911080124
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

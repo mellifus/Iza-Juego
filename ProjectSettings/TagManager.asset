@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Big Bullet
+  - Plataforma_move
+  - Interaccion
+  - Ground
+  - Cartel
+  - pared
+  - estructuras
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - wall
+  - Water
+  - UI
+  - Ground
+  - Hurt
+  - Hit
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: fondo
+    uniqueID: 2670953559
+    locked: 0
+  - name: background
+    uniqueID: 867964361
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: foreground
+    uniqueID: 1102132579
+    locked: 0
